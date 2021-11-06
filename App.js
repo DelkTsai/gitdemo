@@ -12,12 +12,13 @@ import List from './List';
 //   );
 // }
 
+//浪漫的定义几个字,再多几个字
 class App extends Component{
   constructor(props){
     super(props);
   }
 
-//演示一下，红日出墙高高挂
+
 
   render(){
     return (
