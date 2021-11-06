@@ -5,7 +5,7 @@ import axios from 'axios';
 import TrData from './TrData';
 
 function List(){
-  
+
   //初始化组件状态
   const [users,setUsers] = useState([]);
   const [isLoaded,setIsLoaded] = useState(false);
@@ -25,8 +25,8 @@ function List(){
     console.log("clicked");
   }
 
-  // 组件渲染结构
-  return ( 
+  // 组件渲染结构，增加点文字说明
+  return (
         (<table className="table table-bordered">
           <thead>
             <tr>
