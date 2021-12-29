@@ -18,12 +18,11 @@ class App extends Component{
     super(props);
   }
 
-<<<<<<< HEAD
+
 
 
 //演示一下,我叫张三丰,你叫李小二,她叫王五
 
->>>>>>> dev
   render(){
     return (
       <div className="container">
