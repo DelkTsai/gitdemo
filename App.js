@@ -17,7 +17,7 @@ class App extends Component{
     super(props);
   }
 
-//演示一下, 这是dev分支,,ceshiytong
+//演示一下, 这是dev分支
 
   render(){
     return (
